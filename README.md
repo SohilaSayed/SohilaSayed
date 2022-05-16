@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SohilaSayed
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on web developing
+- 💞️ I’m looking to collaborate on internship for undergraduate student
 - 📫 How to reach me sohilasayed6s.s@gmail.com
 
 <!---
